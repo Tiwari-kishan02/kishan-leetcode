@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
