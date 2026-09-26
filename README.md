@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
