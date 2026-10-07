@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
