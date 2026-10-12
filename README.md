@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
