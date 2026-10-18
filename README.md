@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
