@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0704-binary-search) |
 ## Binary Search
@@ -153,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Tiwari-kishan02/kishan-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
